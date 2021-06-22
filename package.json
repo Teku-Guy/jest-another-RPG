@@ -1,0 +1,22 @@
+{
+  "name": "npm",
+  "version": "1.0.0",
+  "description": "RPG Game",
+  "main": "app.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Teku-Guy/jest-another-RPG.git"
+  },
+  "author": "Teku-Guy",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Teku-Guy/jest-another-RPG/issues"
+  },
+  "homepage": "https://github.com/Teku-Guy/jest-another-RPG#readme",
+  "devDependencies": {
+    "jest": "^27.0.4"
+  }
+}
