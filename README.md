@@ -5,4 +5,7 @@ learning to use Jest for TDD and expand on my OOP Js style of coding
 all u have to do is download the code an run
   
     npm install
+then run 
+  
+    node app.js
 
